@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "685bc035bdbb24134ca8744c"
+  },
+  "roomNo": 1,
+  "description": "Hall 1",
+  "facilityID": "Arts"
+},
+{
+  "_id": {
+    "$oid": "685bc09ebdbb24134ca8744d"
+  },
+  "roomNo": 2,
+  "description": "Hall 2",
+  "facilityID": "ICC"
+}]

@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "685bbf7bbdbb24134ca87449"
+  },
+  "facilityID": "Arts",
+  "name": "Artscape Theatre centre",
+  "address": "D.F. Malan St, Foreshore, Cape Town, 8001",
+  "munCode": "CPT",
+  "rooms": [
+    {
+      "roomNo": 1,
+      "description": "Hall 1"
+    }
+  ]
+}]

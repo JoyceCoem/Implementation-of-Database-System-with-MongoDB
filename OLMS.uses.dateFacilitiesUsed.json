@@ -1,0 +1,16 @@
+[{
+  "date": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "facilityID": "Arts",
+  "name": "Artscape Theatre centre",
+  "address": "D.F. Malan St, Foreshore, Cape Town, 8001"
+},
+{
+  "date": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  },
+  "facilityID": "ICC",
+  "name": "Durban ICC",
+  "address": "45 Bram Fischer Rd, Durban Central, Durban, 4001"
+}]

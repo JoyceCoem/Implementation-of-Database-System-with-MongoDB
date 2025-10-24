@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "685bb843bdbb24134ca8743a"
+  },
+  "provinceCode": "WC",
+  "name": "Western Cape"
+},
+{
+  "_id": {
+    "$oid": "685bbe2fbdbb24134ca87443"
+  },
+  "provinceCode": "KZN",
+  "name": "KwaZulu-Natal"
+}]

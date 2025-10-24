@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "685ff4ecee2ae2e3ed3d08e3"
+  },
+  "facilityID": "Arts",
+  "name": "Artscape Theatre centre",
+  "capacity": 1500,
+  "address": "D.F. Malan St, Foreshore, Cape Town, 8001",
+  "munCode": "CPT"
+},
+{
+  "_id": {
+    "$oid": "685ff5acee2ae2e3ed3d08e4"
+  },
+  "facilityID": "ICC",
+  "name": "Durban ICC",
+  "capacity": 10000,
+  "address": "45 Bram Fischer Rd, Durban Central, Durban, 4001",
+  "munCode": "ETH"
+}]

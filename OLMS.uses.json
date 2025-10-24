@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "685bc15ebdbb24134ca87452"
+  },
+  "facilityID": "Arts",
+  "activityRef": "MUS01",
+  "date": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685ffdbcee2ae2e3ed3d0903"
+  },
+  "facilityID": "ICC",
+  "activityRef": "EXH01",
+  "date": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  }
+}]

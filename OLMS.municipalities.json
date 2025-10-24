@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "685bbe6ebdbb24134ca87445"
+  },
+  "munCode": "CPT",
+  "name": "City of Cape Town",
+  "avgPopulation": 4005016,
+  "provinceCode": "WC"
+},
+{
+  "_id": {
+    "$oid": "685bbf16bdbb24134ca87446"
+  },
+  "munCode": "ETH",
+  "name": "eThekwini Metropolitan Municipality",
+  "avgPopulation": 3702231,
+  "provinceCode": "KZN"
+}]

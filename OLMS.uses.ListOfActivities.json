@@ -1,0 +1,12 @@
+[{
+  "date": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "activityRef": "MUS01",
+  "activityName": "Music Concert",
+  "facilityId": "Arts",
+  "facilityName": "Artscape Theatre centre",
+  "address": "D.F. Malan St, Foreshore, Cape Town, 8001",
+  "municipality": "City of Cape Town",
+  "province": "Western Cape"
+}]

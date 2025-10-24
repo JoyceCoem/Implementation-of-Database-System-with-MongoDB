@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "685bc0a3bdbb24134ca8744f"
+  },
+  "activityRef": "MUS01",
+  "name": "Music Concert"
+},
+{
+  "_id": {
+    "$oid": "685bc12ebdbb24134ca87450"
+  },
+  "activityRef": "EXH01",
+  "name": "Art Exhibition"
+}]
